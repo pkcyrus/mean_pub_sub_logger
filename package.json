@@ -1,0 +1,19 @@
+{
+  "name": "mean_pub_sub_logger",
+  "version": "1.0.0",
+  "description": "Log redis pub/sub messages to mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkcyrus/mean_pub_sub_logger.git"
+  },
+  "author": "Peter Kehagias <peter@pskehagias.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkcyrus/mean_pub_sub_logger/issues"
+  },
+  "homepage": "https://github.com/pkcyrus/mean_pub_sub_logger#readme"
+}
